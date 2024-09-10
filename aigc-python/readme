@@ -1,0 +1,29 @@
+           链接                    后端函数名                  前端界面名
+随机选择
+  清汤
+     奇幻 random_clearfantasy get_random_clearfantasy         random_clearfantasy   界面名对应后面加screen
+     搞笑 random_clearfunny   get_random_clearfunny           random_clearfunny
+     亲情 random_clearlove    get_random_clearlove            random_clearlove
+  红汤
+     变态 random_redmeta      get_random_redmeta              random_redmeta
+     奇幻 random_redfantasy   get_random_redfantasy           random_redfantasy
+     搞笑 random_redfunny     get_random_redfunny             random_redfunny
+     亲情 random_redlove      get_random_redlove              random_redlove
+
+不随机选择
+   清汤
+     奇幻 clearfantasy_tangmian get_clearfantasy_tangmian
+          clearfantasy          get_clearfantasy
+     搞笑 clearfunny_tangmian   get_clearfunny_tangmian
+          clearfunny            get_clearfunny
+     亲情 clearlove_tangmian    get_clearlove_tangmian
+          clearlove             get_clearlove
+  红汤
+     变态 redmeta_tangmian      get_redmeta_tangmian
+          redmeta               get_redmeta
+     奇幻 redfantasy_tangmian   get_redfantasy_tangmian
+          redfantasy            get_redfantasy
+     搞笑 redfunny_tangmian     get_redfunny_tangmian 
+          redfunny              get_redfunny
+     亲情 redlove_tangmian      get_redlove_tangmian
+          redlove               get_redlove
